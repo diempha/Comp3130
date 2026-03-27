@@ -1,4 +1,4 @@
-Week03 workshp
+Week03 workshop
 - Link to the duolingo survey: https://mqedu.qualtrics.com/jfe/form/SV_eDlEvsCd4HvIUJw
 - Summary:
     - 50% of users were able to complete the lesson.
